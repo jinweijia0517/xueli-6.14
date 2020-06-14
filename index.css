@@ -1,0 +1,182 @@
+/*top代码*/
+.top{
+	background-color: #f5f5f5;
+	border-bottom: 1px solid rgba(218, 218, 218, 1);
+}
+.container{
+	width: 1200px;
+	margin: 0 auto;
+}
+.top{
+	height: 25px;
+}
+.top-info {
+    float: right;
+}
+.top-info li{
+	float: left;
+	margin-left: 30px;
+}
+.top-info a{
+    color: rgba(0, 0, 0, 1);
+    font-size: 13px;
+    font-weight: 300;
+}
+.iphone {
+    padding-left: 16px;
+    background: url(images/iphone.png) no-repeat left center;
+}
+.weixin {
+    padding-left: 24px;
+    background: url(images/weixin.png) no-repeat left center;
+}
+/*head-logo代码*/
+.head-logo{
+	height: 100px;
+	background: url(images/back.jpg);
+}
+.logo{
+	float: left;
+	width: 160px;
+	height: 100px;
+}
+.form{
+	float: left;
+	margin-top: 31px;
+	margin-left: 366px;
+}
+.search{
+	float: left;
+	width: 320px;
+	height: 13px;
+	border: 1px solid rgba(250,42,131,1);
+	padding: 12px 19px 12px;
+
+}
+.submit{
+	float: right;
+	width: 50px;
+	height: 40px;
+	background: rgba(250,42,131,1) url(images/search.png) no-repeat center;
+}
+.put{
+	float: right;
+	padding: 23px 10px;
+}
+/*head-nav代码*/
+.head-nav{
+	width: 1200px;
+	height:60px;
+	background:rgba(255,255,255,1);
+	box-shadow:0px 2px 3px 0px rgba(118,118,118,0.2);
+	margin: 0 auto;
+}
+.head-nav ul{
+	float: left;
+	padding: 21px 34px;
+}
+.nav li{
+	float: left;
+	text-align: center;
+	width: 120px;
+	font-size:16px;
+	border-right: 1px solid rgba(191,191,191,1);
+}
+.nav a{
+	color: rgba(33,95,5,1);
+	font-weight: 600;
+}
+.nav .last{
+	border: none;
+}
+.nav a:hover{
+	color: rgba(250,42,131,1);
+	font-weight: 700;
+}
+/*banner代码*/
+.banner{
+	background: rgb(175,238,238);
+
+}
+.draw{
+	width: 1200px;
+}
+/*value代码*/
+h2{
+    margin-top: 22px;
+    font-size: 36px;
+    color: rgba(44, 10,66, 1);
+    text-align: center;
+}
+
+.under {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+.cloth img{
+	width: 390px;
+}
+.cloth li{
+	float: left;
+	padding-left: 14px;
+}
+.cloth .first{
+	padding-left: 0;
+}
+/*brand代码*/
+.brand{
+	padding-top: 36px;
+}
+.name{
+	float: left;
+	font-size: 36px;
+	font-weight: 600;
+	padding-bottom: 20px;
+}
+.name a{
+		color: rgba(44, 10,66, 1);
+}
+.more{
+	float: right;
+	padding-bottom: 20px;
+	font-size: 16px;
+}
+.brand ul{
+	float: left;
+}
+.show li{
+	float: left;
+	padding-left: 60px;
+}
+.show .one{
+	padding-left: 0;
+}
+.show .three{
+	padding-left: 0;
+}
+.show .five{
+	padding-left: 0;
+}
+.show .shopname{
+	font-size: 20px;
+	font-weight: 600;
+}
+.show .low{
+	font-size: 19px;
+	color: #DB7093;
+	font-weight: 600;
+}
+/*版权声明*/
+.details{
+	height: 66px;
+	padding: 25px 30px;
+	background-color: rgba(233,150,122,0.4);
+}
+
+.details p{
+	color: grey;
+	size: 12px;
+	text-align: center;
+}
